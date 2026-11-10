@@ -1,0 +1,76 @@
+Query,Rank,Source,Similarity_Score
+What is artificial intelligence?,1,document1.txt,0.363
+What is artificial intelligence?,2,document1.txt,0.5544
+What is artificial intelligence?,3,document7.txt,0.7341
+What is artificial intelligence?,4,document6.txt,0.8521
+What is artificial intelligence?,5,document10.txt,0.8639
+How do computers learn from data?,1,document2.txt,0.6734
+How do computers learn from data?,2,document9.txt,1.0207
+How do computers learn from data?,3,document5.txt,1.0716
+How do computers learn from data?,4,document2.txt,1.107
+How do computers learn from data?,5,document3.txt,1.1076
+Explain deep learning and neural networks.,1,document3.txt,0.5232
+Explain deep learning and neural networks.,2,document3.txt,0.5366
+Explain deep learning and neural networks.,3,document5.txt,0.6018
+Explain deep learning and neural networks.,4,document2.txt,0.9563
+Explain deep learning and neural networks.,5,document5.txt,1.0232
+How can computers understand human language?,1,document4.txt,0.6847
+How can computers understand human language?,2,document5.txt,1.0408
+How can computers understand human language?,3,document4.txt,1.1557
+How can computers understand human language?,4,document2.txt,1.1659
+How can computers understand human language?,5,document10.txt,1.1726
+How do machines recognize images?,1,document5.txt,0.5734
+How do machines recognize images?,2,document6.txt,0.8807
+How do machines recognize images?,3,document2.txt,1.0851
+How do machines recognize images?,4,document3.txt,1.1829
+How do machines recognize images?,5,document1.txt,1.1873
+What is the role of robots in automation?,1,document7.txt,0.7242
+What is the role of robots in automation?,2,document6.txt,0.8038
+What is the role of robots in automation?,3,document1.txt,0.905
+What is the role of robots in automation?,4,document1.txt,1.0234
+What is the role of robots in automation?,5,document5.txt,1.1438
+How can we protect computer systems from attacks?,1,document7.txt,0.835
+How can we protect computer systems from attacks?,2,document2.txt,1.5118
+How can we protect computer systems from attacks?,3,document8.txt,1.5954
+How can we protect computer systems from attacks?,4,document8.txt,1.6485
+How can we protect computer systems from attacks?,5,document4.txt,1.6493
+What are the benefits of cloud computing?,1,document8.txt,0.6452
+What are the benefits of cloud computing?,2,document7.txt,1.3961
+What are the benefits of cloud computing?,3,document1.txt,1.434
+What are the benefits of cloud computing?,4,document2.txt,1.4566
+What are the benefits of cloud computing?,5,document10.txt,1.4701
+How is data science used to analyze information?,1,document9.txt,0.4551
+How is data science used to analyze information?,2,document2.txt,1.1122
+How is data science used to analyze information?,3,document6.txt,1.3667
+How is data science used to analyze information?,4,document10.txt,1.3681
+How is data science used to analyze information?,5,document4.txt,1.3788
+How do chatbots communicate with people?,1,document10.txt,0.4417
+How do chatbots communicate with people?,2,document4.txt,1.1385
+How do chatbots communicate with people?,3,document4.txt,1.1796
+How do chatbots communicate with people?,4,document9.txt,1.262
+How do chatbots communicate with people?,5,document1.txt,1.2717
+What is the difference between AI and machine learning?,1,document1.txt,0.6165
+What is the difference between AI and machine learning?,2,document2.txt,0.6671
+What is the difference between AI and machine learning?,3,document2.txt,0.81
+What is the difference between AI and machine learning?,4,document1.txt,0.9034
+What is the difference between AI and machine learning?,5,document7.txt,0.9144
+How are neural networks used in technology?,1,document5.txt,0.5698
+How are neural networks used in technology?,2,document3.txt,0.7335
+How are neural networks used in technology?,3,document3.txt,0.9751
+How are neural networks used in technology?,4,document2.txt,1.058
+How are neural networks used in technology?,5,document5.txt,1.1396
+How does natural language processing work?,1,document4.txt,0.5694
+How does natural language processing work?,2,document4.txt,0.6723
+How does natural language processing work?,3,document10.txt,1.0909
+How does natural language processing work?,4,document2.txt,1.2481
+How does natural language processing work?,5,document3.txt,1.293
+Why is cybersecurity important?,1,document7.txt,0.6507
+Why is cybersecurity important?,2,document1.txt,1.3184
+Why is cybersecurity important?,3,document10.txt,1.3668
+Why is cybersecurity important?,4,document6.txt,1.3681
+Why is cybersecurity important?,5,document2.txt,1.4173
+How does technology help in decision making?,1,document2.txt,1.2008
+How does technology help in decision making?,2,document4.txt,1.2479
+How does technology help in decision making?,3,document1.txt,1.248
+How does technology help in decision making?,4,document9.txt,1.2695
+How does technology help in decision making?,5,document5.txt,1.2913

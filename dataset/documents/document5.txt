@@ -1,0 +1,1 @@
+Computer Vision enables machines to understand images and videos.

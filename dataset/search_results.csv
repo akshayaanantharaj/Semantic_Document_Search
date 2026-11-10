@@ -1,0 +1,129 @@
+Query,Rank,Document,Source,Similarity_Score
+What is artificial intelligence?,1,"Artificial Intelligence (AI)
+
+Artificial Intelligence is a branch of computer science that enables machines to perform tasks that normally require human intelligence. AI systems can learn from data, solve problems, understand languages, and make decisions. Examples of AI applications include virtual assistants, chatbots, recommendation systems, and self-driving cars. AI is widely used in education, healthcare, banking, and transportation.",document1.txt,0.363
+What is artificial intelligence?,2,Artificial Intelligence enables machines to perform tasks that normally require human intelligence.,document1.txt,0.5544
+What is artificial intelligence?,3,"Robotics and Artificial Intelligence
+
+Robotics combines engineering and Artificial Intelligence to create intelligent machines. AI-powered robots can perform tasks automatically, recognize objects, and make decisions. Robots are used in industries, hospitals, manufacturing, agriculture, and space exploration. They improve efficiency and reduce human effort.",document7.txt,0.7341
+What is artificial intelligence?,4,"Robotics combines artificial intelligence, sensors, and mechanical systems to perform physical tasks.",document6.txt,0.8521
+What is artificial intelligence?,5,"Applications of Artificial Intelligence
+
+Artificial Intelligence is used in many real-world applications. In healthcare, AI helps doctors detect diseases. In education, it supports personalized learning. In banking, AI detects fraudulent transactions. In transportation, AI supports self-driving vehicles. AI improves productivity, accuracy, and decision-making in different industries.",document10.txt,0.8639
+How do computers learn from data?,1,Machine Learning allows computers to learn patterns from data and make predictions.,document2.txt,0.6734
+How do computers learn from data?,2,"Data Science uses statistics, programming, and data analysis to discover useful information.",document9.txt,1.0207
+How do computers learn from data?,3,Computer Vision enables machines to understand images and videos.,document5.txt,1.0716
+How do computers learn from data?,4,"Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence that allows computers to learn from data without being explicitly programmed. It uses algorithms to identify patterns and make predictions. Machine Learning is used in email spam detection, weather forecasting, fraud detection, and product recommendations. The three main types are supervised learning, unsupervised learning, and reinforcement learning.",document2.txt,1.107
+How do computers learn from data?,5,Deep Learning uses neural networks with multiple layers to process complex information.,document3.txt,1.1076
+Explain deep learning and neural networks.,1,Deep Learning uses neural networks with multiple layers to process complex information.,document3.txt,0.5232
+Explain deep learning and neural networks.,2,"Deep Learning
+
+Deep Learning is a part of Machine Learning that uses artificial neural networks to process large amounts of data. It is inspired by the working of the human brain. Deep Learning is used in image recognition, speech recognition, language translation, and medical diagnosis. It helps computers solve complex problems automatically.",document3.txt,0.5366
+Explain deep learning and neural networks.,3,"Neural Networks
+
+Neural Networks are computing systems inspired by the human brain. They consist of interconnected nodes called neurons. These networks learn patterns from data and help computers perform tasks such as image classification, speech recognition, and prediction. Neural networks are an important part of Deep Learning.",document5.txt,0.6018
+Explain deep learning and neural networks.,4,Machine Learning allows computers to learn patterns from data and make predictions.,document2.txt,0.9563
+Explain deep learning and neural networks.,5,Computer Vision enables machines to understand images and videos.,document5.txt,1.0232
+How can computers understand human language?,1,Natural Language Processing helps computers understand and generate human language.,document4.txt,0.6847
+How can computers understand human language?,2,Computer Vision enables machines to understand images and videos.,document5.txt,1.0408
+How can computers understand human language?,3,"Natural Language Processing (NLP)
+
+Natural Language Processing is a branch of Artificial Intelligence that helps computers understand and process human languages. NLP is used in chatbots, language translation, voice assistants, text summarization, and sentiment analysis. It allows computers to communicate with humans using text and speech.",document4.txt,1.1557
+How can computers understand human language?,4,Machine Learning allows computers to learn patterns from data and make predictions.,document2.txt,1.1659
+How can computers understand human language?,5,Chatbots use artificial intelligence and natural language processing to communicate with users.,document10.txt,1.1726
+How do machines recognize images?,1,Computer Vision enables machines to understand images and videos.,document5.txt,0.5734
+How do machines recognize images?,2,"Computer Vision
+
+Computer Vision is a field of Artificial Intelligence that enables computers to understand and analyze images and videos. It is used in facial recognition, object detection, medical image analysis, and self-driving cars. Computer Vision helps machines identify objects and understand visual information.
+",document6.txt,0.8807
+How do machines recognize images?,3,Machine Learning allows computers to learn patterns from data and make predictions.,document2.txt,1.0851
+How do machines recognize images?,4,Deep Learning uses neural networks with multiple layers to process complex information.,document3.txt,1.1829
+How do machines recognize images?,5,Artificial Intelligence enables machines to perform tasks that normally require human intelligence.,document1.txt,1.1873
+What is the role of robots in automation?,1,"Robotics and Artificial Intelligence
+
+Robotics combines engineering and Artificial Intelligence to create intelligent machines. AI-powered robots can perform tasks automatically, recognize objects, and make decisions. Robots are used in industries, hospitals, manufacturing, agriculture, and space exploration. They improve efficiency and reduce human effort.",document7.txt,0.7242
+What is the role of robots in automation?,2,"Robotics combines artificial intelligence, sensors, and mechanical systems to perform physical tasks.",document6.txt,0.8038
+What is the role of robots in automation?,3,Artificial Intelligence enables machines to perform tasks that normally require human intelligence.,document1.txt,0.905
+What is the role of robots in automation?,4,"Artificial Intelligence (AI)
+
+Artificial Intelligence is a branch of computer science that enables machines to perform tasks that normally require human intelligence. AI systems can learn from data, solve problems, understand languages, and make decisions. Examples of AI applications include virtual assistants, chatbots, recommendation systems, and self-driving cars. AI is widely used in education, healthcare, banking, and transportation.",document1.txt,1.0234
+What is the role of robots in automation?,5,Computer Vision enables machines to understand images and videos.,document5.txt,1.1438
+How can we protect computer systems from attacks?,1,"Cybersecurity protects computers, networks, and data from unauthorized access and attacks.",document7.txt,0.835
+How can we protect computer systems from attacks?,2,Machine Learning allows computers to learn patterns from data and make predictions.,document2.txt,1.5118
+How can we protect computer systems from attacks?,3,"Cloud Computing provides online storage, servers, and computing services through the internet.",document8.txt,1.5954
+How can we protect computer systems from attacks?,4,"Expert Systems
+
+Expert Systems are AI programs that imitate the decision-making ability of human experts. They use a knowledge base and a set of rules to solve specific problems. Expert systems are used in medical diagnosis, banking, troubleshooting, and decision support. They help users make decisions based on stored knowledge.",document8.txt,1.6485
+How can we protect computer systems from attacks?,5,Natural Language Processing helps computers understand and generate human language.,document4.txt,1.6493
+What are the benefits of cloud computing?,1,"Cloud Computing provides online storage, servers, and computing services through the internet.",document8.txt,0.6452
+What are the benefits of cloud computing?,2,"Cybersecurity protects computers, networks, and data from unauthorized access and attacks.",document7.txt,1.3961
+What are the benefits of cloud computing?,3,Artificial Intelligence enables machines to perform tasks that normally require human intelligence.,document1.txt,1.434
+What are the benefits of cloud computing?,4,Machine Learning allows computers to learn patterns from data and make predictions.,document2.txt,1.4566
+What are the benefits of cloud computing?,5,"Applications of Artificial Intelligence
+
+Artificial Intelligence is used in many real-world applications. In healthcare, AI helps doctors detect diseases. In education, it supports personalized learning. In banking, AI detects fraudulent transactions. In transportation, AI supports self-driving vehicles. AI improves productivity, accuracy, and decision-making in different industries.",document10.txt,1.4701
+How is data science used to analyze information?,1,"Data Science uses statistics, programming, and data analysis to discover useful information.",document9.txt,0.4551
+How is data science used to analyze information?,2,Machine Learning allows computers to learn patterns from data and make predictions.,document2.txt,1.1122
+How is data science used to analyze information?,3,"Computer Vision
+
+Computer Vision is a field of Artificial Intelligence that enables computers to understand and analyze images and videos. It is used in facial recognition, object detection, medical image analysis, and self-driving cars. Computer Vision helps machines identify objects and understand visual information.
+",document6.txt,1.3667
+How is data science used to analyze information?,4,"Applications of Artificial Intelligence
+
+Artificial Intelligence is used in many real-world applications. In healthcare, AI helps doctors detect diseases. In education, it supports personalized learning. In banking, AI detects fraudulent transactions. In transportation, AI supports self-driving vehicles. AI improves productivity, accuracy, and decision-making in different industries.",document10.txt,1.3681
+How is data science used to analyze information?,5,Natural Language Processing helps computers understand and generate human language.,document4.txt,1.3788
+How do chatbots communicate with people?,1,Chatbots use artificial intelligence and natural language processing to communicate with users.,document10.txt,0.4417
+How do chatbots communicate with people?,2,"Natural Language Processing (NLP)
+
+Natural Language Processing is a branch of Artificial Intelligence that helps computers understand and process human languages. NLP is used in chatbots, language translation, voice assistants, text summarization, and sentiment analysis. It allows computers to communicate with humans using text and speech.",document4.txt,1.1385
+How do chatbots communicate with people?,3,Natural Language Processing helps computers understand and generate human language.,document4.txt,1.1796
+How do chatbots communicate with people?,4,"Generative Artificial Intelligence
+
+Generative AI is a type of Artificial Intelligence that can create new content such as text, images, music, and videos. It uses advanced machine learning models to generate human-like responses. ChatGPT, Google Gemini, and image generation tools are examples of Generative AI. It is useful in education, content creation, and software development.",document9.txt,1.262
+How do chatbots communicate with people?,5,"Artificial Intelligence (AI)
+
+Artificial Intelligence is a branch of computer science that enables machines to perform tasks that normally require human intelligence. AI systems can learn from data, solve problems, understand languages, and make decisions. Examples of AI applications include virtual assistants, chatbots, recommendation systems, and self-driving cars. AI is widely used in education, healthcare, banking, and transportation.",document1.txt,1.2717
+What is the difference between AI and machine learning?,1,"Artificial Intelligence (AI)
+
+Artificial Intelligence is a branch of computer science that enables machines to perform tasks that normally require human intelligence. AI systems can learn from data, solve problems, understand languages, and make decisions. Examples of AI applications include virtual assistants, chatbots, recommendation systems, and self-driving cars. AI is widely used in education, healthcare, banking, and transportation.",document1.txt,0.6165
+What is the difference between AI and machine learning?,2,"Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence that allows computers to learn from data without being explicitly programmed. It uses algorithms to identify patterns and make predictions. Machine Learning is used in email spam detection, weather forecasting, fraud detection, and product recommendations. The three main types are supervised learning, unsupervised learning, and reinforcement learning.",document2.txt,0.6671
+What is the difference between AI and machine learning?,3,Machine Learning allows computers to learn patterns from data and make predictions.,document2.txt,0.81
+What is the difference between AI and machine learning?,4,Artificial Intelligence enables machines to perform tasks that normally require human intelligence.,document1.txt,0.9034
+What is the difference between AI and machine learning?,5,"Robotics and Artificial Intelligence
+
+Robotics combines engineering and Artificial Intelligence to create intelligent machines. AI-powered robots can perform tasks automatically, recognize objects, and make decisions. Robots are used in industries, hospitals, manufacturing, agriculture, and space exploration. They improve efficiency and reduce human effort.",document7.txt,0.9144
+How are neural networks used in technology?,1,"Neural Networks
+
+Neural Networks are computing systems inspired by the human brain. They consist of interconnected nodes called neurons. These networks learn patterns from data and help computers perform tasks such as image classification, speech recognition, and prediction. Neural networks are an important part of Deep Learning.",document5.txt,0.5698
+How are neural networks used in technology?,2,Deep Learning uses neural networks with multiple layers to process complex information.,document3.txt,0.7335
+How are neural networks used in technology?,3,"Deep Learning
+
+Deep Learning is a part of Machine Learning that uses artificial neural networks to process large amounts of data. It is inspired by the working of the human brain. Deep Learning is used in image recognition, speech recognition, language translation, and medical diagnosis. It helps computers solve complex problems automatically.",document3.txt,0.9751
+How are neural networks used in technology?,4,Machine Learning allows computers to learn patterns from data and make predictions.,document2.txt,1.058
+How are neural networks used in technology?,5,Computer Vision enables machines to understand images and videos.,document5.txt,1.1396
+How does natural language processing work?,1,Natural Language Processing helps computers understand and generate human language.,document4.txt,0.5694
+How does natural language processing work?,2,"Natural Language Processing (NLP)
+
+Natural Language Processing is a branch of Artificial Intelligence that helps computers understand and process human languages. NLP is used in chatbots, language translation, voice assistants, text summarization, and sentiment analysis. It allows computers to communicate with humans using text and speech.",document4.txt,0.6723
+How does natural language processing work?,3,Chatbots use artificial intelligence and natural language processing to communicate with users.,document10.txt,1.0909
+How does natural language processing work?,4,Machine Learning allows computers to learn patterns from data and make predictions.,document2.txt,1.2481
+How does natural language processing work?,5,Deep Learning uses neural networks with multiple layers to process complex information.,document3.txt,1.293
+Why is cybersecurity important?,1,"Cybersecurity protects computers, networks, and data from unauthorized access and attacks.",document7.txt,0.6507
+Why is cybersecurity important?,2,Artificial Intelligence enables machines to perform tasks that normally require human intelligence.,document1.txt,1.3184
+Why is cybersecurity important?,3,"Applications of Artificial Intelligence
+
+Artificial Intelligence is used in many real-world applications. In healthcare, AI helps doctors detect diseases. In education, it supports personalized learning. In banking, AI detects fraudulent transactions. In transportation, AI supports self-driving vehicles. AI improves productivity, accuracy, and decision-making in different industries.",document10.txt,1.3668
+Why is cybersecurity important?,4,"Computer Vision
+
+Computer Vision is a field of Artificial Intelligence that enables computers to understand and analyze images and videos. It is used in facial recognition, object detection, medical image analysis, and self-driving cars. Computer Vision helps machines identify objects and understand visual information.
+",document6.txt,1.3681
+Why is cybersecurity important?,5,Machine Learning allows computers to learn patterns from data and make predictions.,document2.txt,1.4173
+How does technology help in decision making?,1,Machine Learning allows computers to learn patterns from data and make predictions.,document2.txt,1.2008
+How does technology help in decision making?,2,Natural Language Processing helps computers understand and generate human language.,document4.txt,1.2479
+How does technology help in decision making?,3,Artificial Intelligence enables machines to perform tasks that normally require human intelligence.,document1.txt,1.248
+How does technology help in decision making?,4,"Data Science uses statistics, programming, and data analysis to discover useful information.",document9.txt,1.2695
+How does technology help in decision making?,5,Computer Vision enables machines to understand images and videos.,document5.txt,1.2913
